@@ -1,0 +1,72 @@
+/* BASIC SETUP */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html,
+body{
+    
+}
+
+
+/* REUSABLE COMPONENTS */
+
+
+section{
+    padding: 80px 0;    
+}
+h1{
+    
+}
+h2{
+    
+}
+.the-box{
+    text-align: center;
+}
+
+
+.main-box{
+    padding: 50px;
+    
+}
+.main-heading{
+    padding: 48px 15px; 
+    text-align: center;
+}
+
+}
+
+.changed-color{
+    background-color: 
+    
+}
+.button{
+    padding-top: 50px;
+}
+.final-button{
+    border: none;
+    padding: 15px 30px;
+    font-family: 28px;
+    font-weight: bold;
+    background-color: #b4b4b4;
+    cursor: pointer;
+    border-radius: 5%;
+}
+.final-button:hover{
+    background-color: #848484;
+}
+
+
+
+
+
+
+
+
+
+
